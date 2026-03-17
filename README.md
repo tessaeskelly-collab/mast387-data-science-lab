@@ -1,4 +1,4 @@
-# mast387-data-science-lab
+# mast387-data-science-lab-projects
 # MAST 387 – Data Science Lab Projects
 
 This repository contains selected projects completed for MAST 387 at Concordia University. The work focuses on regression, clustering, dimensionality reduction, and predictive modeling in Python.
